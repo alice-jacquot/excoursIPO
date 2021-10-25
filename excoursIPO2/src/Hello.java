@@ -3,5 +3,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hllo world!");
         Rien.rien();
+        System.out.println("bla");
     }
 }
