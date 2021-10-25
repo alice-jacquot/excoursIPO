@@ -1,1 +1,3 @@
 # excoursIPO
+
+Binome Jacquot - Jacquot
