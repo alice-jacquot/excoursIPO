@@ -1,5 +1,5 @@
 public class Rien {
     public static void rien(){
-        System.out.println("rien");
+        System.out.println("rien du tout");
     }
 }
